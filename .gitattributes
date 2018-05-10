@@ -1,5 +1,6 @@
 #将某一类型的文件加到lfs
-#*.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+
 #将某一文件加到lfs
 设计/商店图-20171120调整.psd filter=lfs diff=lfs merge=lfs -text
 设计/商店图-20171120调整-英文版.psd filter=lfs diff=lfs merge=lfs -text
